@@ -1,1 +1,3 @@
-alert("Nope.");
+function button() {
+  alert("Nope.");
+}
